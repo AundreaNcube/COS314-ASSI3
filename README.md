@@ -22,7 +22,7 @@ statistical significance testing).
 |------|---------------|
 | [Amantle Temo -- Decision Tree & Utilities] | [u23539764] |
 | [Aundrea Ncube -- Arithmetic Classifier] | [u22747363] |
-| [Member 3 -- GP Engine] | [u23534975] |
+| [David Kalu -- GP Engine] | [u23534975] |
 
 ---
 
